@@ -21,6 +21,7 @@ function App() {
             href="https://github.com/nimalansivakumar/create-react-app-tailwindcss"
             className="underline font-thin"
             target="_blank"
+            rel="nonreferrer"
           >
             create-react-app-tailwindcss
           </a>
